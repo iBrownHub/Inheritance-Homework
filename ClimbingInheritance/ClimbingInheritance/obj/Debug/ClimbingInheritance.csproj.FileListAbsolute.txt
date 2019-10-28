@@ -1,0 +1,7 @@
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\bin\Debug\ClimbingInheritance.exe.config
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\bin\Debug\ClimbingInheritance.exe
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\bin\Debug\ClimbingInheritance.pdb
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\obj\Debug\ClimbingInheritance.csprojAssemblyReference.cache
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\obj\Debug\ClimbingInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\obj\Debug\ClimbingInheritance.exe
+C:\Users\Ross Brown\Engineering45\Week2\Monday\ClimbingInheritance\ClimbingInheritance\obj\Debug\ClimbingInheritance.pdb
